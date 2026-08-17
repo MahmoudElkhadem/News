@@ -11,5 +11,4 @@ class AppTheme {
     scaffoldBackgroundColor: AppColor.darkColor,
     cardColor:AppColor.whiteColor,
   );
-
 }
